@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @codeybeddows
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in Full-stack development
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, MySQL and PHP
 - 📫 How to reach me: colibe1122@outlook.com
 
 <!---
